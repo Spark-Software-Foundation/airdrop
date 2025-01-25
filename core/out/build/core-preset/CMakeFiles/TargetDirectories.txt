@@ -1,0 +1,3 @@
+/home/bibigon/airdrop/core/out/build/core-preset/CMakeFiles/core.dir
+/home/bibigon/airdrop/core/out/build/core-preset/CMakeFiles/edit_cache.dir
+/home/bibigon/airdrop/core/out/build/core-preset/CMakeFiles/rebuild_cache.dir
