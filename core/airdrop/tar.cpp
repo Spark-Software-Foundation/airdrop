@@ -5,9 +5,9 @@
  */
 #include "tar.hpp"
 
-void airdrop::tar::generate(const std::string& path, const std::string& pkgName, const std::vector<std::string>& files)
+void tar::generate(const std::string& path, const std::string& pkgName, const std::vector<std::string>& files)
 {
-    std::ofstream tar(path + pkgName + ".tar", std::ios::binary);
+    std::ofstream tar(path + pkgName + EXT_TAR, std::ios::binary);
 	if (!tar)
 	{
 		std::cerr << "Cannot open '" + pkgName + ".tar'" << std::endl;
@@ -41,9 +41,9 @@ void airdrop::tar::generate(const std::string& path, const std::string& pkgName,
 	tar.close();
 }
 
-void airdrop::tar::extract(const std::string& path, const std::string& pkgName)
+void tar::extract(const std::string& path, const std::string& pkgName)
 {
-	std::ifstream tar(path + pkgName + ".tar", std::ios::binary);
+	std::ifstream tar(path + pkgName + EXT_TAR, std::ios::binary);
 	if (!tar)
 	{
 		std::cerr << "Failed to open '" + pkgName + ".tar' for reading." << std::endl;
