@@ -1,8 +1,8 @@
 [
 {
-  "directory": "/home/bibigon/airdrop/core/build",
-  "command": "/usr/lib64/ccache/c++   -g -o CMakeFiles/core.dir/main.cpp.o -c /home/bibigon/airdrop/core/main.cpp",
-  "file": "/home/bibigon/airdrop/core/main.cpp",
+  "directory": "/home/sparkshine/airdrop/core/build",
+  "command": "/usr/lib64/ccache/c++   -g -o CMakeFiles/core.dir/main.cpp.o -c /home/sparkshine/airdrop/core/main.cpp",
+  "file": "/home/sparkshine/airdrop/core/main.cpp",
   "output": "CMakeFiles/core.dir/main.cpp.o"
 }
 ]

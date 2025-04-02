@@ -9,7 +9,6 @@ int main(int argc, char const *argv[])
     std::vector<std::string> filesToArchive = 
     {
         "airdrop/test/blablabla.txt",
-        "airdrop/test/example.png",
         "airdrop/test/hello.txt"
     };
     std::string archiveName = "test";

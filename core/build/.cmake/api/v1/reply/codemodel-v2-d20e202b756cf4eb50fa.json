@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/bibigon/airdrop/core/build",
-		"source" : "/home/bibigon/airdrop/core"
+		"build" : "/home/sparkshine/airdrop/core/build",
+		"source" : "/home/sparkshine/airdrop/core"
 	},
 	"version" : 
 	{

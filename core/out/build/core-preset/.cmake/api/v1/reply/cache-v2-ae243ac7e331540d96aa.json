@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/bibigon/airdrop/core/out/build/core-preset"
+			"value" : "/home/sparkshine/airdrop/core/out/build/core-preset"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -559,7 +559,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/bibigon/airdrop/core/out/build/core-preset/CMakeFiles/pkgRedirects"
+			"value" : "/home/sparkshine/airdrop/core/out/build/core-preset/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -619,7 +619,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/bibigon/airdrop/core"
+			"value" : "/home/sparkshine/airdrop/core"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -631,7 +631,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/home/bibigon/airdrop/core/out/install/core-preset"
+			"value" : "/home/sparkshine/airdrop/core/out/install/core-preset"
 		},
 		{
 			"name" : "CMAKE_INSTALL_SO_NO_EXE",
@@ -1243,7 +1243,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/bibigon/airdrop/core/out/build/core-preset"
+			"value" : "/home/sparkshine/airdrop/core/out/build/core-preset"
 		},
 		{
 			"name" : "core_IS_TOP_LEVEL",
@@ -1267,7 +1267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/bibigon/airdrop/core"
+			"value" : "/home/sparkshine/airdrop/core"
 		}
 	],
 	"kind" : "cache",

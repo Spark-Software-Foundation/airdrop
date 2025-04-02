@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/bibigon/airdrop/core/main.cpp" "CMakeFiles/core.dir/main.cpp.o" "gcc" "CMakeFiles/core.dir/main.cpp.o.d"
+  "/home/sparkshine/airdrop/core/main.cpp" "CMakeFiles/core.dir/main.cpp.o" "gcc" "CMakeFiles/core.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

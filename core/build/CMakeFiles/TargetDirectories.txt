@@ -1,3 +1,3 @@
-/home/bibigon/airdrop/core/build/CMakeFiles/core.dir
-/home/bibigon/airdrop/core/build/CMakeFiles/edit_cache.dir
-/home/bibigon/airdrop/core/build/CMakeFiles/rebuild_cache.dir
+/home/sparkshine/airdrop/core/build/CMakeFiles/core.dir
+/home/sparkshine/airdrop/core/build/CMakeFiles/edit_cache.dir
+/home/sparkshine/airdrop/core/build/CMakeFiles/rebuild_cache.dir

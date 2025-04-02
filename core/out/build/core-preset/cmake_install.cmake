@@ -1,8 +1,8 @@
-# Install script for directory: /home/bibigon/airdrop/core
+# Install script for directory: /home/sparkshine/airdrop/core
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/bibigon/airdrop/core/out/install/core-preset")
+  set(CMAKE_INSTALL_PREFIX "/home/sparkshine/airdrop/core/out/install/core-preset")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -57,6 +57,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/home/bibigon/airdrop/core/out/build/core-preset/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/sparkshine/airdrop/core/out/build/core-preset/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
