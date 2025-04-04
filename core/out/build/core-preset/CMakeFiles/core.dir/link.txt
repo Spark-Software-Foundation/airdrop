@@ -1,1 +1,1 @@
-/usr/bin/c++ -g CMakeFiles/core.dir/main.cpp.o -o core
+/usr/bin/c++ -g CMakeFiles/core.dir/main.cpp.o -o core 
